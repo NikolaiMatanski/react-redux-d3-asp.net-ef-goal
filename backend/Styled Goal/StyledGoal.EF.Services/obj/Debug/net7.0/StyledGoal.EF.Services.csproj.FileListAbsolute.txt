@@ -1,0 +1,51 @@
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.EF.Services.deps.json
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.EF.Services.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.EF.Services.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.API.Contracts.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.DAL.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.API.Contracts.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.DAL.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.csproj.AssemblyReference.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.AssemblyInfoInputs.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.AssemblyInfo.cs
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.csproj.CoreCompileInputs.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.csproj.CopyComplete
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\refint\StyledGoal.EF.Services.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\ref\StyledGoal.EF.Services.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.EF.Services.deps.json
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.EF.Services.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.EF.Services.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.API.Contracts.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.DAL.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.API.Contracts.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.DAL.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.csproj.AssemblyReference.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.AssemblyInfoInputs.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.AssemblyInfo.cs
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.csproj.CoreCompileInputs.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.csproj.CopyComplete
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\refint\StyledGoal.EF.Services.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\ref\StyledGoal.EF.Services.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.EF.Services.deps.json
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.EF.Services.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.EF.Services.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.API.Contracts.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.DAL.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.API.Contracts.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\bin\Debug\net7.0\StyledGoal.DAL.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.csproj.AssemblyReference.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.AssemblyInfoInputs.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.AssemblyInfo.cs
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.csproj.CopyComplete
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\refint\StyledGoal.EF.Services.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\StyledGoal.EF.Services.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.EF.Services\obj\Debug\net7.0\ref\StyledGoal.EF.Services.dll

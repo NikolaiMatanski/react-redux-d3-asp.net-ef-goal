@@ -1,0 +1,45 @@
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.API.Contracts.deps.json
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.API.Contracts.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.API.Contracts.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.DAL.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.DAL.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.csproj.AssemblyReference.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.AssemblyInfoInputs.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.AssemblyInfo.cs
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.csproj.CoreCompileInputs.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.csproj.CopyComplete
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\refint\StyledGoal.API.Contracts.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\ref\StyledGoal.API.Contracts.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.API.Contracts.deps.json
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.API.Contracts.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.API.Contracts.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.DAL.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.DAL.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.csproj.AssemblyReference.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.AssemblyInfoInputs.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.AssemblyInfo.cs
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.csproj.CopyComplete
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\refint\StyledGoal.API.Contracts.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\ref\StyledGoal.API.Contracts.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.API.Contracts.deps.json
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.API.Contracts.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.API.Contracts.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.DAL.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\bin\Debug\net7.0\StyledGoal.DAL.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.csproj.AssemblyReference.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.AssemblyInfoInputs.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.AssemblyInfo.cs
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.csproj.CopyComplete
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\refint\StyledGoal.API.Contracts.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\StyledGoal.API.Contracts.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.API.Contracts\obj\Debug\net7.0\ref\StyledGoal.API.Contracts.dll

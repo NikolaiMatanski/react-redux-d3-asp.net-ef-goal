@@ -1,0 +1,17 @@
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\bin\Debug\net7.0\ApiTemplate.EF.Services.deps.json
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\bin\Debug\net7.0\ApiTemplate.EF.Services.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\bin\Debug\net7.0\ApiTemplate.EF.Services.pdb
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\bin\Debug\net7.0\ApiTemplate.API.Contracts.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\bin\Debug\net7.0\ApiTemplate.DAL.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\bin\Debug\net7.0\ApiTemplate.API.Contracts.pdb
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\bin\Debug\net7.0\ApiTemplate.DAL.pdb
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\obj\Debug\net7.0\ApiTemplate.EF.Services.csproj.AssemblyReference.cache
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\obj\Debug\net7.0\ApiTemplate.EF.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\obj\Debug\net7.0\ApiTemplate.EF.Services.AssemblyInfoInputs.cache
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\obj\Debug\net7.0\ApiTemplate.EF.Services.AssemblyInfo.cs
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\obj\Debug\net7.0\ApiTemplate.EF.Services.csproj.CoreCompileInputs.cache
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\obj\Debug\net7.0\ApiTemplate.EF.Services.csproj.CopyComplete
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\obj\Debug\net7.0\ApiTemplate.EF.Services.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\obj\Debug\net7.0\refint\ApiTemplate.EF.Services.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\obj\Debug\net7.0\ApiTemplate.EF.Services.pdb
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.EF.Services\obj\Debug\net7.0\ref\ApiTemplate.EF.Services.dll

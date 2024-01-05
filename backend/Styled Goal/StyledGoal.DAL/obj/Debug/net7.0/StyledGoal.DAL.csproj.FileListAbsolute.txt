@@ -1,0 +1,36 @@
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\bin\Debug\net7.0\StyledGoal.DAL.deps.json
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\bin\Debug\net7.0\StyledGoal.DAL.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\bin\Debug\net7.0\StyledGoal.DAL.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.csproj.AssemblyReference.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.AssemblyInfoInputs.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.AssemblyInfo.cs
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.csproj.CoreCompileInputs.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\refint\StyledGoal.DAL.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\ref\StyledGoal.DAL.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\bin\Debug\net7.0\StyledGoal.DAL.deps.json
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\bin\Debug\net7.0\StyledGoal.DAL.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\bin\Debug\net7.0\StyledGoal.DAL.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.csproj.AssemblyReference.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.AssemblyInfoInputs.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.AssemblyInfo.cs
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\refint\StyledGoal.DAL.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\ref\StyledGoal.DAL.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\bin\Debug\net7.0\StyledGoal.DAL.deps.json
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\bin\Debug\net7.0\StyledGoal.DAL.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\bin\Debug\net7.0\StyledGoal.DAL.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.csproj.AssemblyReference.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.AssemblyInfoInputs.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.AssemblyInfo.cs
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\refint\StyledGoal.DAL.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\StyledGoal.DAL.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal.DAL\obj\Debug\net7.0\ref\StyledGoal.DAL.dll

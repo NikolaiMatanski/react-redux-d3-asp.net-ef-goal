@@ -1,0 +1,15 @@
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\bin\Debug\net7.0\ApiTemplate.API.Contracts.deps.json
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\bin\Debug\net7.0\ApiTemplate.API.Contracts.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\bin\Debug\net7.0\ApiTemplate.API.Contracts.pdb
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\bin\Debug\net7.0\ApiTemplate.DAL.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\bin\Debug\net7.0\ApiTemplate.DAL.pdb
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\obj\Debug\net7.0\ApiTemplate.API.Contracts.csproj.AssemblyReference.cache
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\obj\Debug\net7.0\ApiTemplate.API.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\obj\Debug\net7.0\ApiTemplate.API.Contracts.AssemblyInfoInputs.cache
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\obj\Debug\net7.0\ApiTemplate.API.Contracts.AssemblyInfo.cs
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\obj\Debug\net7.0\ApiTemplate.API.Contracts.csproj.CoreCompileInputs.cache
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\obj\Debug\net7.0\ApiTemplate.API.Contracts.csproj.CopyComplete
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\obj\Debug\net7.0\ApiTemplate.API.Contracts.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\obj\Debug\net7.0\refint\ApiTemplate.API.Contracts.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\obj\Debug\net7.0\ApiTemplate.API.Contracts.pdb
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.API.Contracts\obj\Debug\net7.0\ref\ApiTemplate.API.Contracts.dll

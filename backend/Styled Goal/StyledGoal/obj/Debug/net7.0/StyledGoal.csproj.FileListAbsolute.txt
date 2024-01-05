@@ -1,0 +1,342 @@
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\appsettings.Development.json
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\appsettings.json
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.exe
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.deps.json
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.runtimeconfig.json
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Azure.Core.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Azure.Identity.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Azure.Security.KeyVault.Certificates.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Azure.Security.KeyVault.Secrets.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Humanizer.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.DataProtection.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Abstractions.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.Certificate.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.Certificateless.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.Diagnostics.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.TokenAcquisition.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.TokenCache.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.LoggingExtensions.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Validators.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Scrutor.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.CodeDom.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Security.Cryptography.Xml.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.API.Contracts.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.API.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.DAL.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.EF.Services.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.API.Contracts.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.API.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.DAL.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.EF.Services.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.csproj.AssemblyReference.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.AssemblyInfoInputs.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.AssemblyInfo.cs
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.csproj.CoreCompileInputs.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets\msbuild.StyledGoal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets\msbuild.build.StyledGoal.props
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StyledGoal.props
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StyledGoal.props
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets.build.json
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets.development.json
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\scopedcss\bundle\StyledGoal.styles.css
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.csproj.CopyComplete
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\refint\StyledGoal.dll
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.pdb
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.genruntimeconfig.cache
+D:\Programming\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\ref\StyledGoal.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\appsettings.json
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.exe
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.deps.json
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.runtimeconfig.json
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Humanizer.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Abstractions.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Scrutor.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Security.Cryptography.Xml.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.API.Contracts.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.API.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.DAL.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.EF.Services.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.API.Contracts.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.API.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.DAL.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.EF.Services.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.csproj.AssemblyReference.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.AssemblyInfoInputs.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.AssemblyInfo.cs
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.csproj.CoreCompileInputs.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets\msbuild.StyledGoal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets\msbuild.build.StyledGoal.props
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StyledGoal.props
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StyledGoal.props
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\scopedcss\bundle\StyledGoal.styles.css
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.csproj.CopyComplete
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\refint\StyledGoal.dll
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.pdb
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.genruntimeconfig.cache
+C:\Users\nikolai.matanski\Desktop\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\ref\StyledGoal.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\appsettings.Development.json
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\appsettings.json
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.exe
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.deps.json
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.runtimeconfig.json
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Azure.Core.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Azure.Identity.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Azure.Security.KeyVault.Certificates.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Azure.Security.KeyVault.Secrets.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Humanizer.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Abstractions.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.Certificate.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.IdentityModel.Validators.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Scrutor.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.CodeDom.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Security.Cryptography.Xml.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.API.Contracts.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.API.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.DAL.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.EF.Services.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.API.Contracts.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.API.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.DAL.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\bin\Debug\net7.0\StyledGoal.EF.Services.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.csproj.AssemblyReference.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.AssemblyInfoInputs.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.AssemblyInfo.cs
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.MvcApplicationPartsAssemblyInfo.cs
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.MvcApplicationPartsAssemblyInfo.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets.build.json
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets.development.json
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets\msbuild.StyledGoal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets\msbuild.build.StyledGoal.props
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StyledGoal.props
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StyledGoal.props
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\scopedcss\bundle\StyledGoal.styles.css
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.csproj.CopyComplete
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\refint\StyledGoal.dll
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.pdb
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\StyledGoal.genruntimeconfig.cache
+C:\Program Files (x86)\MM\Styled Goal\styled-goal-backend\Styled Goal\StyledGoal\obj\Debug\net7.0\ref\StyledGoal.dll

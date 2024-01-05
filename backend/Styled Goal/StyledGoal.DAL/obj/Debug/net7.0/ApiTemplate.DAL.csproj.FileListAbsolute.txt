@@ -1,0 +1,12 @@
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.DAL\bin\Debug\net7.0\ApiTemplate.DAL.deps.json
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.DAL\bin\Debug\net7.0\ApiTemplate.DAL.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.DAL\bin\Debug\net7.0\ApiTemplate.DAL.pdb
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.DAL\obj\Debug\net7.0\ApiTemplate.DAL.csproj.AssemblyReference.cache
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.DAL\obj\Debug\net7.0\ApiTemplate.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.DAL\obj\Debug\net7.0\ApiTemplate.DAL.AssemblyInfoInputs.cache
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.DAL\obj\Debug\net7.0\ApiTemplate.DAL.AssemblyInfo.cs
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.DAL\obj\Debug\net7.0\ApiTemplate.DAL.csproj.CoreCompileInputs.cache
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.DAL\obj\Debug\net7.0\ApiTemplate.DAL.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.DAL\obj\Debug\net7.0\refint\ApiTemplate.DAL.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.DAL\obj\Debug\net7.0\ApiTemplate.DAL.pdb
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.DAL\obj\Debug\net7.0\ref\ApiTemplate.DAL.dll

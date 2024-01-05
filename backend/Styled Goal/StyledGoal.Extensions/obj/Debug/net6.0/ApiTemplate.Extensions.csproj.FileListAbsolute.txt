@@ -1,0 +1,12 @@
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.Extensions\bin\Debug\net6.0\ApiTemplate.Extensions.deps.json
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.Extensions\bin\Debug\net6.0\ApiTemplate.Extensions.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.Extensions\bin\Debug\net6.0\ApiTemplate.Extensions.pdb
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.Extensions\obj\Debug\net6.0\ApiTemplate.Extensions.csproj.AssemblyReference.cache
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.Extensions\obj\Debug\net6.0\ApiTemplate.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.Extensions\obj\Debug\net6.0\ApiTemplate.Extensions.AssemblyInfoInputs.cache
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.Extensions\obj\Debug\net6.0\ApiTemplate.Extensions.AssemblyInfo.cs
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.Extensions\obj\Debug\net6.0\ApiTemplate.Extensions.csproj.CoreCompileInputs.cache
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.Extensions\obj\Debug\net6.0\ApiTemplate.Extensions.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.Extensions\obj\Debug\net6.0\refint\ApiTemplate.Extensions.dll
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.Extensions\obj\Debug\net6.0\ApiTemplate.Extensions.pdb
+D:\Programming\Full-Stack Template project\git\full-stack-template-.net-react\backend\api-template\ApiTemplate\ApiTemplate.Extensions\obj\Debug\net6.0\ref\ApiTemplate.Extensions.dll

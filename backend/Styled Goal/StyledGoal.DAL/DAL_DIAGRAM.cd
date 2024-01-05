@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StyledGoal.DAL.Models.ChartDataPoint">
+    <Position X="4.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Models\ChartDataPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StyledGoal.DAL.Models.GeneralChart">
+    <Position X="1.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\GeneralChart.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Chart" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="StyledGoal.DAL.Models.PieChart">
+    <Position X="1.25" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Models\PieChart.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Chart" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="StyledGoal.DAL.Models.PieChartDataPoint">
+    <Position X="4.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgAAAAAAAAAQAAAgAAAAAAAAggAAAAQA=</HashCode>
+      <FileName>Models\PieChartDataPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
